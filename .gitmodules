@@ -1,0 +1,6 @@
+[submodule "src/shared/Toast"]
+	path = src/shared/Toast
+	url = git@github.com:mtmtdg/submodule-test-toast
+[submodule "src/shared/Dialog"]
+	path = src/shared/Dialog
+	url = git@github.com:mtmtdg/submodule-test-dialog
